@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<ObjectInfo></ObjectInfo>
+	<Attribute>
+		<InterfaceName></InterfaceName>
+		<PropertyName></PropertyName>
+		<CodeList></CodeList>
+		<DataType></DataType>
+		<Column></Column>
+		<Relations>
+			<Relationship></Relationship>
+			<Role></Role>
+		</Relations>
+		<Relations>
+			<Relationship></Relationship>
+			<Role></Role>
+		</Relations>
+		<Relations>
+			<Relationship></Relationship>
+			<Role></Role>
+		</Relations>
+	</Attribute>
+</Root>
